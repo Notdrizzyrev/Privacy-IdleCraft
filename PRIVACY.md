@@ -11,11 +11,11 @@ This Privacy Policy explains how IdleCraft processes information when you use th
 ### 2. Information We May Collect or Process
 
 Depending on the features you use, IdleCraft may process:
-- **Discord identifiers** — user IDs, server IDs, channel IDs, role IDs, message IDs (required to operate commands and persistent control panels).
-- **Configuration information** — server preferences, registered profiles, access settings, and feature configurations.
-- **Minecraft connection information** — server addresses, ports, versions, connection status, and session history (where applicable).
-- **Operational information** — error logs, timestamps, reconnect attempts, uptime statistics, and security/moderation logs (where applicable).
-- **Support information** — any information you voluntarily provide when requesting assistance.
+- **Discord identifiers** - user IDs, server IDs, channel IDs, role IDs, message IDs (required to operate commands and persistent control panels).
+- **Configuration information** - server preferences, registered profiles, access settings, and feature configurations.
+- **Minecraft connection information** - server addresses, ports, versions, connection status, and session history (where applicable).
+- **Operational information** - error logs, timestamps, reconnect attempts, uptime statistics, and security/moderation logs (where applicable).
+- **Support information** - any information you voluntarily provide when requesting assistance.
 
 ### 3. How Information Is Used
 
