@@ -2,8 +2,6 @@
 
 **Last Updated:** October 13, 2026
 
-This Privacy Policy explains how IdleCraft processes information when you use the Discord bot and its features.
-
 ### 1. Introduction
 
 This Privacy Policy explains how IdleCraft processes information when you use the Discord bot and its features.
