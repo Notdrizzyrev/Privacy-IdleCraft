@@ -1,4 +1,8 @@
-# IdleCraft Terms of Service
+# IdleCraft
+
+**Last Updated:** October 13, 2026
+
+## Terms of Service
 
 **Last Updated:** October 13, 2026
 
@@ -60,7 +64,7 @@ IdleCraft processes information necessary to provide its features, including:
 - Minecraft connection details and session history
 - Operational and security logs
 
-Please review the [IdleCraft Privacy Policy](https://github.com/yourusername/IdleCraft/blob/main/PRIVACY.md) for full details.
+Please review the [IdleCraft Privacy Policy](https://github.com/Notdrizzyrev/Privacy-IdleCraft/blob/main/PRIVACY.md) for full details.
 
 ## 9. Disclaimers and Liability
 
@@ -82,7 +86,7 @@ For questions about these Terms, please contact the IdleCraft team via the offic
 
 ---
 
-# IdleCraft Privacy Policy
+## Privacy Policy
 
 **Last Updated:** October 13, 2026
 
@@ -159,4 +163,4 @@ For privacy questions or data requests, contact the IdleCraft team via the offic
 
 ---
 
-**License:** None.
+**License:** None
